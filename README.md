@@ -1,2 +1,0 @@
-# java-themeleaf
-projeto themeleaf
